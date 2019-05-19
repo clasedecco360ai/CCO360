@@ -15,3 +15,4 @@ Los tecnologos Steven y Andrea Frank utilizaron y crearon este Inteligencia Arti
 Competencia de AI entre China y Estados Unidos
 China, se están acercando de la creación de la inteligencia artificial y utilizándolo para propósitos de construir infraestructuras de para la computación de la nube y fortalecer trabajos de ingenieros de software, en cual es una preocupación para los Estados Unidos. 
 Estados Unidos también están trabajando en crear su propia Inteligencia Artificial compitiendo contra el de China, ya que es tecnológicamente avanzada como la creación de los vehículos autónomos, drones, reconocimiento faciales, entre otros. Incluso, cuando China ha ganado algunos segmentos del mercado tecnológicos que Estados Unidos también estaban compitiendo. 
+
