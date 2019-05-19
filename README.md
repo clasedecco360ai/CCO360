@@ -5,6 +5,6 @@ NO SOLAMENTE ESO! Nosotros tambien veremos noticias diversas sobre las diferente
 
 La inteligencia artificial pronto sera una gran necesidad y ya tuvo su breve comienzo de procesos. Algunos son ya creadas pero aun se necesitan modificaciones y perfeccionarlos para que ya sea utilizado con mucho exito. 
 
-Esta pagina esta subdivida en categorias: Home, About, Resumenes y Tools!
+Esta pagina esta subdivida en categorias: Home, About, Resumenes, Tareas, Anuncios, Noticias y Tools!
 
 Espero que nosotros tengamos un buen semestre juntos!
