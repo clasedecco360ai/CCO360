@@ -7,12 +7,4 @@ La inteligencia artificial pronto sera una gran necesidad y ya tuvo su breve com
 
 Esta pagina esta subdivida en categorias: Home, About, Resumenes, Tareas, Anuncios, Noticias y Tools, para que los estudiantes entren segun lo asignado en clase!
 
-Solo escribe:
-clasedecco360ai.github.io/CCO360/About
-clasedecco360ai.github.io/CCO360/Resumenes
-clasedecco360ai.github.io/CCO360/Tareas
-clasedecco360ai.github.io/CCO360/Anuncios
-clasedecco360ai.github.io/CCO360/Noticias
-clasedecco360ai.github.io/CCO360/Tools
-
 Espero que nosotros tengamos un buen semestre juntos!
